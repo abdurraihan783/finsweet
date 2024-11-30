@@ -1,0 +1,763 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header start */
+.navbar-toggler {
+	color: #232536;
+    background-color: white;
+}
+.menu ul li a{
+	margin: 5px;
+	padding: 0 !important;
+}
+.btn_cm {
+    width: 120px;
+    padding: 12px 12px;
+}
+.btn_sin {
+    margin-left: 5px;
+}
+/* banner  start */
+.c_p {
+    margin-top: 60px;
+}
+.c_h {
+    font-size: 18px;
+    line-height: 24px;
+}
+.c_p2 {
+    padding-right: 10px;
+}
+.btn_get {
+    margin-bottom: 50px;
+    width: 130px;
+    padding: 10px 10px;
+}
+/*feature start*/
+.m_t {
+    margin: 15px;
+}
+.c_h0 {
+    font-size: 20px;
+}
+.i_mg {
+    padding-top: 5px;
+}
+.c_p3 {
+    font-size: 14px;
+    padding: 5px 0 0 0;
+}
+.c_h1 {
+    font-size: 18px;
+    padding: 0;
+}
+.c_p5 {
+    margin-bottom: 0;
+    padding-top: 16px;
+}
+.c_h2 {
+    font-size: 16px;
+}
+.c_p4 {
+    padding: 5px 0px 10px 0;
+    font-size: 14px;
+}
+.b_t{
+    margin-bottom: 50px;
+    width: 130px;
+    height: 47px;
+    padding: 10px 10px;
+}
+.t_x {
+    margin-left: 140px;
+}
+.item1 {
+    padding: 0 0px 5px 0px;
+}
+/*about start*/
+.s_hape1 {
+    margin-left: 0px;
+}
+.s_hape2 {
+    width: 120px;
+}
+.a_bout {
+    margin: 20px 15px;
+}
+.a_h1 {
+    font-size: 16px;
+    line-height: 24px;
+}
+.m_sion {
+    margin: 20px 15px;
+}
+.a_h2 {
+    padding-right: 0;
+    font-size: 18px;
+}
+.a_p {
+    font-size: 15px;
+    line-height: 24px;
+}
+/*catagory start*/
+.m_t {
+    margin: 40px 0 0;
+}
+.sf_item {
+    padding: 20px 20px;
+}
+/* discover start */
+.d_sec {
+        margin-top: -50px;
+        margin-left: 26px;
+        padding: 20px 0px 0 20px;
+        width: 270px;
+        height: 445px;
+}
+.d_h1 {
+    font-size: 16px;
+}
+.btn_d {
+    margin-top: 20px;
+    width: 190px;
+    padding: 8px 8px;
+}
+/* Author start */
+.a_t {
+    margin: 395px 0 0 0;
+}
+/* logo start */
+.l_y {
+    padding: 0 0px 0 0;
+    font-size: 10px;
+}
+.lo_h4 {
+    font-size: 16px;
+}
+.logo1 {
+    margin: 0 20px 20px;
+}
+/*testimonial start*/
+.border-right{
+    margin: 50px 0 0 0;
+    border-right: 1px solid var(--lightyell);  
+}
+.test_1 {
+    padding: 0 0 50px;
+}
+.test_2 {
+    padding: 0px 10px 0;
+}
+.test_img{
+    margin-top: 50px;
+}
+.test_h{
+    font-size: 18px;
+}
+/* team start */
+.team_h2 {
+    font-size: 22px;
+    line-height: 26px;
+}
+.team_p {
+    padding: 0 0;
+}
+.b_team {
+    margin-bottom: 0;
+}
+/* footer start */
+.fs {
+    margin-top: 40px;
+    margin-left: 100px;
+    width: 100px;
+    height: 22px;
+}
+.f_link {
+    margin-top: 30px;
+    margin-right: 40px;
+}
+.footer_mid {
+    margin-top: 30px;
+}
+.footer_1st {
+    padding: 30px 10px 30px;
+}
+.f_h2 {
+    font-size: 16px;
+    line-height: 24px;
+}
+.c_input {
+    height: 50px;
+}
+.btn_f{
+    margin-bottom: 0;
+    width: 275px;
+    padding: 12px 15px;
+}
+.foot_b {
+    margin: 35px 0 0 0;
+}
+.footer_bottom {
+    padding-right: 0;
+    font-size: 15px;
+    text-align: center;
+}
+.f_icon{
+    margin-right: 75px;
+}
+.f_icon ul li a {
+    margin-left: 15px;
+    text-align: center;
+}
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header start */
+.navbar-toggler {
+	color: #232536;
+    background-color: white;
+}
+.menu ul li a{
+	width: 16%;
+	margin: 5px;
+	padding: 0 !important;
+}
+.btn_cm {
+    width: 120px;
+    padding: 12px 12px;
+}
+.btn_sin {
+    margin-left: 5px;
+}
+/* banner  start */
+.c_p {
+    margin-top: 60px;
+}
+.c_h {
+    font-size: 22px;
+    line-height: 32px;
+}
+.c_p2 {
+    padding-right: 50px;
+}
+.btn_get {
+    margin-bottom: 70px;
+    width: 150px;
+    padding: 12px 12px;
+}
+/*feature start*/
+.m_t {
+    margin: 60px;
+}
+.c_h0 {
+    font-size: 24px;
+}
+.i_mg {
+    padding-top: 15px;
+}
+.c_p3 {
+    padding: 15px 0 0px 0;
+}
+.c_h1 {
+    font-size: 20px;
+}
+.c_p5 {
+    padding-top: 16px;
+}
+.c_h2 {
+    font-size: 18px;
+}
+.c_p4 {
+    padding: 15px 0px 15px 0;
+}
+.b_t{
+    margin-bottom: 50px;
+    width: 130px;
+    padding: 12px 6px;
+}
+.t_x {
+    margin-left: 345px;
+}
+.item1 {
+    padding: 0 0px 5px 0px;
+}
+/*about start*/
+.s_hape1 {
+    margin-left: 0px;
+}
+.a_bout {
+    margin: 40px 40px;
+}
+.a_h1 {
+    font-size: 22px;
+    line-height: 28px;
+}
+.m_sion {
+    margin: 30px 40px;
+}
+.a_h2 {
+    padding-right: 0;
+    font-size: 22px;
+}
+.a_p {
+    font-size: 16px;
+    line-height: 24px;
+}
+/*catagory start*/
+.m_t {
+    margin: 60px 0 0 0;
+}
+.sf_item {
+    padding: 25px 20px;
+}
+/* discover start */
+.d_sec {
+        margin-top: -80px;
+        margin-left: 60px;
+        padding: 60px 0px 0 40px;
+        width: 400px;
+        height: 450px;
+}
+.d_h1 {
+    font-size: 21px;
+}
+.btn_d {
+    margin-top: 30px;
+    width: 190px;
+    padding: 8px 8px;
+}
+/* Author start */
+.a_t {
+        margin: 370px 0 0 0;
+}
+.au_h2 {
+    font-size: 22px;
+}
+.au_p {
+    font-size: 14px;
+}
+/* logo start */
+.l_y {
+    padding: 0 0px 0 0;
+    font-size: 10px;
+}
+.logo1 {
+    margin: 0 20px 20px;
+}
+/*testimonial start*/
+.border-right{
+    margin: 50px 0 0 0;
+    border-right: 1px solid var(--lightyell);  
+}
+.test_1 {
+    padding: 0 85px 50px;
+}
+.test_2 {
+    padding: 0px 85px 0;
+}
+.test_img{
+    margin-top: 50px;
+}
+/* team start */
+.team_h2 {
+    font-size: 26px;
+    line-height: 28px;
+}
+.b_team {
+    margin-bottom: 0;
+}
+/* footer start */
+.fs {
+    margin-top: 40px;
+    width: 100px;
+    height: 22px;
+}
+.f_link {
+    margin-top: 40px;
+}
+.footer_mid {
+    margin-top: 40px;
+}
+.footer_1st {
+    padding: 30px 35px 30px;
+}
+.f_h2 {
+    font-size: 26px;
+    line-height: 33px;
+}
+.c_input {
+    height: 50px;
+}
+.btn_f{
+    margin-bottom: 0;
+    width: 446px;
+    padding: 12px 15px;
+}
+.footer_bottom {
+    padding-right: 0;
+    font-size: 15px;
+}
+.f_icon ul li a {
+    margin-left: 15px;
+}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header start */
+.navbar-toggler {
+	color: #232536;
+    background-color: white;
+}
+.menu ul li a{
+	width: 16%;
+	margin: 5px;
+	padding: 0 !important;
+}
+.btn_cm {
+    width: 120px;
+    padding: 12px 12px;
+}
+.btn_sin {
+    margin-left: 5px;
+}
+/* banner  start */
+.c_p {
+    margin-top: 80px;
+}
+.c_h {
+    font-size: 28px;
+    line-height: 36px;
+}
+.c_p2 {
+    padding-right: 120px;
+}
+.btn_get {
+    margin-bottom: 100px;
+    width: 150px;
+    padding: 12px 12px;
+}
+/*feature start*/
+.m_t {
+    margin: 80px 0 0;
+}
+.c_h0 {
+    font-size: 28px;
+}
+.i_mg {
+    padding-top: 20px;
+}
+.c_p3 {
+    padding: 20px 0 16px 0;
+}
+.c_h1 {
+    font-size: 24px;
+}
+.c_p5 {
+    padding-top: 16px;
+}
+.b_t{
+    margin-bottom: 50px;
+    width: 150px;
+    padding: 12px 12px;
+}
+.t_x {
+    margin-left: 505px;
+}
+.item1 {
+    padding: 0 0px 15px 0px;
+}
+/*about start*/
+.s_hape1 {
+    margin-left: 0px;
+}
+.a_bout {
+    margin: 40px 40px;
+}
+.a_h1 {
+    font-size: 24px;
+    line-height: 30px;
+}
+.m_sion {
+    margin: 30px 40px;
+}
+.a_h2 {
+    padding-right: 30px;
+    font-size: 24px;
+}
+.a_p {
+    font-size: 16px;
+    line-height: 24px;
+}
+/* discover start */
+.d_sec {
+        margin-top: -90px;
+        margin-left: 85px;
+        padding: 60px 40px 0 60px;
+        width: 530px;
+        height: 470px;
+}
+.d_h1 {
+    font-size: 27px;
+}
+.btn_d {
+    margin-top: 30px;
+    width: 200px;
+    padding: 12px 12px;
+}
+/* Author start */
+.a_t {
+    margin: 380px 0 0 0;
+}
+/* logo start */
+.l_y {
+    padding: 0 15px 0 0;
+    font-size: 10px;
+}
+.lo_h4 {
+    font-size: 16px;
+}
+/*testimonial start*/
+.border-right{
+    margin: 70px 0 0 0;
+    border-right: 1px solid var(--lightyell);  
+}
+.test_1 {
+    padding: 0 85px 70px;
+}
+.test_2 {
+    padding: 0 85px 0;
+}
+.test_img{
+    margin-top: 50px;
+}
+/* team start */
+.team_h2 {
+    font-size: 35px;
+    line-height: 40px;
+}
+.team_p {
+    padding: 0 80px;
+}
+.b_team {
+    margin-bottom: 0;
+}
+/* footer start */
+.fs {
+    margin-top: 50px;
+    width: 100px;
+    height: 22px;
+}
+.f_link {
+    margin-top: 50px;
+    margin-left: 65px;
+}
+.footer_1st {
+    padding: 50px 70px 10px;
+}
+.c_input {
+    height: 50px;
+}
+.footer_bottom {
+    padding-right: 80px;
+}
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* banner  start */
+.c_h {
+    font-size: 36px;
+    line-height: 48px;
+}
+.c_p2 {
+    padding-right: 45px;
+}
+/*feature start*/
+.c_h1 {
+    padding-right: 0px;
+    font-size: 18px;
+}
+.t_x {
+    margin-left: 280px;
+}
+.c_h2 {
+    font-size: 20px;
+}
+.item1 {
+    padding: 0 0 20px 32px;
+}
+/*about start*/
+.a_bout {
+    margin: 96px 0px 96px 60px;
+}
+.a_h1 {
+    font-size: 26px;
+    line-height: 35px;
+}
+.a_p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.m_sion {
+    margin: 96px 38px 96px 35px;
+}
+.a_h2 {
+    padding-right: 0px;
+    font-size: 25px;
+}
+/* catagory start */
+.sf_item {
+    padding: 30px 10px;
+}
+.sf_p {
+    font-size: 14px;
+}
+.c_h0 {
+    font-size: 25px;
+}
+/* discover start */
+.d_sec {
+        margin-top: 80px;
+        margin-left: -262px;
+        padding: 30px 0px 0 60px;
+        width: 515px;
+        height: 379px;
+}
+.d_h1 {
+    font-size: 30px;
+}
+.btn_d {
+    margin-top: 20px;
+    width: 195px;
+    padding: 10px 10px;
+}
+/* Author start */
+.au_h2 {
+    font-size: 18px;
+}
+.au_p {
+    font-size: 11px;
+}
+/* team start */
+.team_h2 {
+    font-size: 28px;
+    line-height: 35px;
+}
+.team_p {
+    font-size: 15px;
+    padding: 0 0 0 0;
+}
+/* footer start */
+.f_link {
+    margin-left: 265px;
+}
+.footer_1st {
+    padding: 85px 60px 75px 25px;
+}
+.f_h2 {
+    font-size: 21px;
+    line-height: 30px;
+}
+.c_input {
+    height: 52px;
+    padding: 15px 15px;
+}
+.btn_f {
+    width: 140px;
+    padding: 14px 14px;
+}
+.footer_bottom {
+    padding-right: 200px;
+}
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/* banner  start */
+.c_h {
+    font-size: 48px;
+}
+.c_p2 {
+    padding-right: 150px;
+}
+/*feature start*/
+.c_h1 {
+    padding-right: 0px;
+    font-size: 22px;
+}
+.t_x {
+    margin-left: 350px;
+}
+.item1 {
+    padding: 0 30px 20px 32px;
+}
+/*about start*/
+.a_h1 {
+    font-size: 22px;
+    line-height: 30px;
+}
+.a_p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.a_h2 {
+    font-size: 24px;
+}
+/* catagory start */
+.sf_item {
+    padding: 40px 25px;
+}
+.sf_p {
+    font-size: 14px;
+}
+.c_h0 {
+    font-size: 30px;
+}
+/* discover start */
+.d_sec {
+    margin-top: 110px;
+    margin-left: -310px;
+    padding: 50px 0px 0 60px;
+    width: 590px;
+    height: 438px;
+}
+.d_h1 {
+    font-size: 35px;
+}
+.btn_d {
+    margin-top: 40px;
+    width: 205px;
+    padding: 14px 14px;
+}
+/* Author start */
+.au_p {
+    font-size: 15px;
+}
+/* team start */
+.team_h2 {
+    font-size: 35px;
+    line-height: 42px;
+}
+.team_p {
+    padding: 0 30px 0 30px;
+}
+/* footer start */
+.f_link {
+    margin-left: 410px;
+}
+.f_h2 {
+    font-size: 27px;
+    line-height: 35px;
+}
+}
+
+/* Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+/* feature strat */
+.t_x {
+    margin-left: 410px;
+}
+/*footer start*/
+.f_link {
+    margin-left: 560px;
+}
+}
